@@ -24,7 +24,7 @@ class Api::V1::InviteController < ApplicationController
 	 	list = Array.new
 	 	invites = Invite.where(["cellphone = ?", current_user.cellphone])
 	 	invites.each do |invite|
-	 		list << add_invite_to_list invite unless !invite.accepted?
+	 		list << add_invite_to_list(invite) unless invite.accepted?
 		end
 	 	show_response(list)
   end
@@ -84,6 +84,8 @@ class Api::V1::InviteController < ApplicationController
 		info = { "id" => invite["id"], "domain_id" => invite["domain_id"], "domain"=> domain["domain"], "inviter_id" => invite["inviter_id"], "inviter_name" => inviter["name"]}
 	end
 
+
+	#TODO Перенести к юзерамкомпаниям
 	def add_user_to_company(company_id)
 		UserToCompanyRole.create(user_id: current_user["id"],role_id:2, company_id: company_id)
 	end
