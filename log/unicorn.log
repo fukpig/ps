@@ -1,0 +1,527 @@
+unicorn_rails worker[1] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:23:50.769327 #865] ERROR -- : reaped #<Process::Status: pid 2919 exit 1> worker=1
+I, [2014-10-19T06:23:50.769639 #865]  INFO -- : worker=1 spawning...
+I, [2014-10-19T06:23:50.771758 #2925]  INFO -- : worker=1 spawned pid=2925
+I, [2014-10-19T06:23:50.772128 #2925]  INFO -- : Refreshing Gem list
+unicorn_rails worker[0] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:23:51.203613 #865] ERROR -- : reaped #<Process::Status: pid 2922 exit 1> worker=0
+I, [2014-10-19T06:23:51.203904 #865]  INFO -- : worker=0 spawning...
+I, [2014-10-19T06:23:51.210076 #2928]  INFO -- : worker=0 spawned pid=2928
+I, [2014-10-19T06:23:51.210476 #2928]  INFO -- : Refreshing Gem list
+unicorn_rails worker[1] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:23:51.909467 #865] ERROR -- : reaped #<Process::Status: pid 2925 exit 1> worker=1
+I, [2014-10-19T06:23:51.909752 #865]  INFO -- : worker=1 spawning...
+I, [2014-10-19T06:23:51.911775 #2931]  INFO -- : worker=1 spawned pid=2931
+I, [2014-10-19T06:23:51.912145 #2931]  INFO -- : Refreshing Gem list
+unicorn_rails worker[0] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:23:52.337493 #865] ERROR -- : reaped #<Process::Status: pid 2928 exit 1> worker=0
+I, [2014-10-19T06:23:52.337778 #865]  INFO -- : worker=0 spawning...
+I, [2014-10-19T06:23:52.339768 #2934]  INFO -- : worker=0 spawned pid=2934
+I, [2014-10-19T06:23:52.340131 #2934]  INFO -- : Refreshing Gem list
+unicorn_rails worker[1] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:23:53.073541 #865] ERROR -- : reaped #<Process::Status: pid 2931 exit 1> worker=1
+I, [2014-10-19T06:23:53.073830 #865]  INFO -- : worker=1 spawning...
+I, [2014-10-19T06:23:53.078103 #2937]  INFO -- : worker=1 spawned pid=2937
+I, [2014-10-19T06:23:53.078773 #2937]  INFO -- : Refreshing Gem list
+unicorn_rails worker[0] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:23:53.517521 #865] ERROR -- : reaped #<Process::Status: pid 2934 exit 1> worker=0
+I, [2014-10-19T06:23:53.517920 #865]  INFO -- : worker=0 spawning...
+I, [2014-10-19T06:23:53.519966 #2940]  INFO -- : worker=0 spawned pid=2940
+I, [2014-10-19T06:23:53.520354 #2940]  INFO -- : Refreshing Gem list
+unicorn_rails worker[1] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:23:54.237516 #865] ERROR -- : reaped #<Process::Status: pid 2937 exit 1> worker=1
+I, [2014-10-19T06:23:54.237797 #865]  INFO -- : worker=1 spawning...
+I, [2014-10-19T06:23:54.239814 #2943]  INFO -- : worker=1 spawned pid=2943
+I, [2014-10-19T06:23:54.240198 #2943]  INFO -- : Refreshing Gem list
+unicorn_rails worker[0] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:23:54.733807 #865] ERROR -- : reaped #<Process::Status: pid 2940 exit 1> worker=0
+I, [2014-10-19T06:23:54.734242 #865]  INFO -- : worker=0 spawning...
+I, [2014-10-19T06:23:54.742615 #2948]  INFO -- : worker=0 spawned pid=2948
+I, [2014-10-19T06:23:54.743138 #2948]  INFO -- : Refreshing Gem list
+unicorn_rails worker[1] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:23:55.533581 #865] ERROR -- : reaped #<Process::Status: pid 2943 exit 1> worker=1
+I, [2014-10-19T06:23:55.533901 #865]  INFO -- : worker=1 spawning...
+I, [2014-10-19T06:23:55.538274 #2951]  INFO -- : worker=1 spawned pid=2951
+I, [2014-10-19T06:23:55.538872 #2951]  INFO -- : Refreshing Gem list
+unicorn_rails worker[0] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:23:56.029641 #865] ERROR -- : reaped #<Process::Status: pid 2948 exit 1> worker=0
+I, [2014-10-19T06:23:56.030038 #865]  INFO -- : worker=0 spawning...
+I, [2014-10-19T06:23:56.034172 #2954]  INFO -- : worker=0 spawned pid=2954
+I, [2014-10-19T06:23:56.034604 #2954]  INFO -- : Refreshing Gem list
+unicorn_rails worker[1] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:23:56.786691 #865] ERROR -- : reaped #<Process::Status: pid 2951 exit 1> worker=1
+I, [2014-10-19T06:23:56.787021 #865]  INFO -- : worker=1 spawning...
+I, [2014-10-19T06:23:56.794212 #2957]  INFO -- : worker=1 spawned pid=2957
+I, [2014-10-19T06:23:56.794659 #2957]  INFO -- : Refreshing Gem list
+unicorn_rails worker[0] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:23:57.285648 #865] ERROR -- : reaped #<Process::Status: pid 2954 exit 1> worker=0
+I, [2014-10-19T06:23:57.285962 #865]  INFO -- : worker=0 spawning...
+I, [2014-10-19T06:23:57.288460 #2960]  INFO -- : worker=0 spawned pid=2960
+I, [2014-10-19T06:23:57.288889 #2960]  INFO -- : Refreshing Gem list
+unicorn_rails worker[1] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:23:58.053832 #865] ERROR -- : reaped #<Process::Status: pid 2957 exit 1> worker=1
+I, [2014-10-19T06:23:58.054193 #865]  INFO -- : worker=1 spawning...
+I, [2014-10-19T06:23:58.058429 #2963]  INFO -- : worker=1 spawned pid=2963
+I, [2014-10-19T06:23:58.058915 #2963]  INFO -- : Refreshing Gem list
+unicorn_rails worker[0] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:23:58.613525 #865] ERROR -- : reaped #<Process::Status: pid 2960 exit 1> worker=0
+I, [2014-10-19T06:23:58.613822 #865]  INFO -- : worker=0 spawning...
+I, [2014-10-19T06:23:58.618068 #2968]  INFO -- : worker=0 spawned pid=2968
+I, [2014-10-19T06:23:58.618470 #2968]  INFO -- : Refreshing Gem list
+unicorn_rails worker[1] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:23:59.288855 #865] ERROR -- : reaped #<Process::Status: pid 2963 exit 1> worker=1
+I, [2014-10-19T06:23:59.289222 #865]  INFO -- : worker=1 spawning...
+I, [2014-10-19T06:23:59.291304 #2971]  INFO -- : worker=1 spawned pid=2971
+I, [2014-10-19T06:23:59.291677 #2971]  INFO -- : Refreshing Gem list
+unicorn_rails worker[0] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:23:59.772775 #865] ERROR -- : reaped #<Process::Status: pid 2968 exit 1> worker=0
+I, [2014-10-19T06:23:59.773139 #865]  INFO -- : worker=0 spawning...
+I, [2014-10-19T06:23:59.778041 #2974]  INFO -- : worker=0 spawned pid=2974
+I, [2014-10-19T06:23:59.778432 #2974]  INFO -- : Refreshing Gem list
+unicorn_rails worker[1] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:24:00.453584 #865] ERROR -- : reaped #<Process::Status: pid 2971 exit 1> worker=1
+I, [2014-10-19T06:24:00.453874 #865]  INFO -- : worker=1 spawning...
+I, [2014-10-19T06:24:00.455990 #2977]  INFO -- : worker=1 spawned pid=2977
+I, [2014-10-19T06:24:00.456368 #2977]  INFO -- : Refreshing Gem list
+unicorn_rails worker[0] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:24:00.941592 #865] ERROR -- : reaped #<Process::Status: pid 2974 exit 1> worker=0
+I, [2014-10-19T06:24:00.941944 #865]  INFO -- : worker=0 spawning...
+I, [2014-10-19T06:24:00.946567 #2980]  INFO -- : worker=0 spawned pid=2980
+I, [2014-10-19T06:24:00.947069 #2980]  INFO -- : Refreshing Gem list
+unicorn_rails worker[1] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:24:01.873617 #865] ERROR -- : reaped #<Process::Status: pid 2977 exit 1> worker=1
+I, [2014-10-19T06:24:01.873920 #865]  INFO -- : worker=1 spawning...
+I, [2014-10-19T06:24:01.876196 #2983]  INFO -- : worker=1 spawned pid=2983
+I, [2014-10-19T06:24:01.876606 #2983]  INFO -- : Refreshing Gem list
+unicorn_rails worker[0] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:24:02.396244 #865] ERROR -- : reaped #<Process::Status: pid 2980 exit 1> worker=0
+I, [2014-10-19T06:24:02.396549 #865]  INFO -- : worker=0 spawning...
+I, [2014-10-19T06:24:02.402056 #2986]  INFO -- : worker=0 spawned pid=2986
+I, [2014-10-19T06:24:02.402446 #2986]  INFO -- : Refreshing Gem list
+unicorn_rails worker[1] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:24:03.241451 #865] ERROR -- : reaped #<Process::Status: pid 2983 exit 1> worker=1
+I, [2014-10-19T06:24:03.241753 #865]  INFO -- : worker=1 spawning...
+I, [2014-10-19T06:24:03.246303 #2998]  INFO -- : worker=1 spawned pid=2998
+I, [2014-10-19T06:24:03.246722 #2998]  INFO -- : Refreshing Gem list
+unicorn_rails worker[0] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:24:03.809567 #865] ERROR -- : reaped #<Process::Status: pid 2986 exit 1> worker=0
+I, [2014-10-19T06:24:03.809901 #865]  INFO -- : worker=0 spawning...
+I, [2014-10-19T06:24:03.814535 #3001]  INFO -- : worker=0 spawned pid=3001
+I, [2014-10-19T06:24:03.814989 #3001]  INFO -- : Refreshing Gem list
+unicorn_rails worker[1] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:24:04.589585 #865] ERROR -- : reaped #<Process::Status: pid 2998 exit 1> worker=1
+I, [2014-10-19T06:24:04.589958 #865]  INFO -- : worker=1 spawning...
+I, [2014-10-19T06:24:04.594308 #3013]  INFO -- : worker=1 spawned pid=3013
+I, [2014-10-19T06:24:04.594743 #3013]  INFO -- : Refreshing Gem list
+unicorn_rails worker[0] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:24:05.125613 #865] ERROR -- : reaped #<Process::Status: pid 3001 exit 1> worker=0
+I, [2014-10-19T06:24:05.125901 #865]  INFO -- : worker=0 spawning...
+I, [2014-10-19T06:24:05.128024 #3016]  INFO -- : worker=0 spawned pid=3016
+I, [2014-10-19T06:24:05.128405 #3016]  INFO -- : Refreshing Gem list
+unicorn_rails worker[1] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:24:05.889281 #865] ERROR -- : reaped #<Process::Status: pid 3013 exit 1> worker=1
+I, [2014-10-19T06:24:05.889596 #865]  INFO -- : worker=1 spawning...
+I, [2014-10-19T06:24:05.892099 #3028]  INFO -- : worker=1 spawned pid=3028
+I, [2014-10-19T06:24:05.892533 #3028]  INFO -- : Refreshing Gem list
+unicorn_rails worker[0] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:24:06.429509 #865] ERROR -- : reaped #<Process::Status: pid 3016 exit 1> worker=0
+I, [2014-10-19T06:24:06.429877 #865]  INFO -- : worker=0 spawning...
+I, [2014-10-19T06:24:06.432140 #3031]  INFO -- : worker=0 spawned pid=3031
+I, [2014-10-19T06:24:06.432550 #3031]  INFO -- : Refreshing Gem list
+unicorn_rails worker[1] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:24:07.223382 #865] ERROR -- : reaped #<Process::Status: pid 3028 exit 1> worker=1
+I, [2014-10-19T06:24:07.223722 #865]  INFO -- : worker=1 spawning...
+I, [2014-10-19T06:24:07.230713 #3043]  INFO -- : worker=1 spawned pid=3043
+I, [2014-10-19T06:24:07.231304 #3043]  INFO -- : Refreshing Gem list
+unicorn_rails worker[0] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:24:07.781635 #865] ERROR -- : reaped #<Process::Status: pid 3031 exit 1> worker=0
+I, [2014-10-19T06:24:07.782008 #865]  INFO -- : worker=0 spawning...
+I, [2014-10-19T06:24:07.784294 #3046]  INFO -- : worker=0 spawned pid=3046
+I, [2014-10-19T06:24:07.784704 #3046]  INFO -- : Refreshing Gem list
+unicorn_rails worker[1] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:24:08.557472 #865] ERROR -- : reaped #<Process::Status: pid 3043 exit 1> worker=1
+I, [2014-10-19T06:24:08.557829 #865]  INFO -- : worker=1 spawning...
+I, [2014-10-19T06:24:08.560411 #3061]  INFO -- : worker=1 spawned pid=3061
+I, [2014-10-19T06:24:08.560879 #3061]  INFO -- : Refreshing Gem list
+unicorn_rails worker[0] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:24:09.113269 #865] ERROR -- : reaped #<Process::Status: pid 3046 exit 1> worker=0
+I, [2014-10-19T06:24:09.113591 #865]  INFO -- : worker=0 spawning...
+I, [2014-10-19T06:24:09.115802 #3064]  INFO -- : worker=0 spawned pid=3064
+I, [2014-10-19T06:24:09.116186 #3064]  INFO -- : Refreshing Gem list
+unicorn_rails worker[1] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:24:09.833616 #865] ERROR -- : reaped #<Process::Status: pid 3061 exit 1> worker=1
+I, [2014-10-19T06:24:09.834006 #865]  INFO -- : worker=1 spawning...
+I, [2014-10-19T06:24:09.842152 #3067]  INFO -- : worker=1 spawned pid=3067
+I, [2014-10-19T06:24:09.842813 #3067]  INFO -- : Refreshing Gem list
+unicorn_rails worker[0] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:24:10.393647 #865] ERROR -- : reaped #<Process::Status: pid 3064 exit 1> worker=0
+I, [2014-10-19T06:24:10.394050 #865]  INFO -- : worker=0 spawning...
+I, [2014-10-19T06:24:10.396296 #3070]  INFO -- : worker=0 spawned pid=3070
+I, [2014-10-19T06:24:10.396701 #3070]  INFO -- : Refreshing Gem list
+unicorn_rails worker[1] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:24:11.089499 #865] ERROR -- : reaped #<Process::Status: pid 3067 exit 1> worker=1
+I, [2014-10-19T06:24:11.089816 #865]  INFO -- : worker=1 spawning...
+I, [2014-10-19T06:24:11.094259 #3073]  INFO -- : worker=1 spawned pid=3073
+I, [2014-10-19T06:24:11.094726 #3073]  INFO -- : Refreshing Gem list
+unicorn_rails worker[0] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:24:11.673641 #865] ERROR -- : reaped #<Process::Status: pid 3070 exit 1> worker=0
+I, [2014-10-19T06:24:11.673949 #865]  INFO -- : worker=0 spawning...
+I, [2014-10-19T06:24:11.678192 #3076]  INFO -- : worker=0 spawned pid=3076
+I, [2014-10-19T06:24:11.678649 #3076]  INFO -- : Refreshing Gem list
+unicorn_rails worker[1] -c config/unicorn.rb -D must be run inside RAILS_ROOT: #<LoadError: cannot load such file -- roar/representer>
+E, [2014-10-19T06:24:12.395127 #865] ERROR -- : reaped #<Process::Status: pid 3073 exit 1> worker=1
+I, [2014-10-19T06:24:12.395458 #865]  INFO -- : worker=1 spawning...
+I, [2014-10-19T06:24:12.402188 #3079]  INFO -- : worker=1 spawned pid=3079
+I, [2014-10-19T06:24:12.402627 #3079]  INFO -- : Refreshing Gem list
+I, [2014-10-19T06:24:14.510175 #3076]  INFO -- : worker=0 ready
+I, [2014-10-19T06:24:15.184286 #3079]  INFO -- : worker=1 ready
+/home/api-ps/app/controllers/api/v1/users_controller.rb:76: warning: else without rescue is useless
+/home/api-ps/app/controllers/api/v1/users_controller.rb:76: warning: else without rescue is useless
+I, [2014-10-25T15:00:43.459725 #14342]  INFO -- : unlinking existing socket=/tmp/unicorn.api-ps.sock
+I, [2014-10-25T15:00:43.460714 #14342]  INFO -- : listening on addr=/tmp/unicorn.api-ps.sock fd=11
+I, [2014-10-25T15:00:43.461016 #14342]  INFO -- : worker=0 spawning...
+I, [2014-10-25T15:00:43.462119 #14342]  INFO -- : worker=1 spawning...
+I, [2014-10-25T15:00:43.465886 #14342]  INFO -- : master process ready
+I, [2014-10-25T15:00:43.474497 #14345]  INFO -- : worker=0 spawned pid=14345
+I, [2014-10-25T15:00:43.474874 #14345]  INFO -- : Refreshing Gem list
+I, [2014-10-25T15:00:43.490167 #14347]  INFO -- : worker=1 spawned pid=14347
+I, [2014-10-25T15:00:43.490603 #14347]  INFO -- : Refreshing Gem list
+I, [2014-10-25T15:00:47.165883 #14345]  INFO -- : worker=0 ready
+I, [2014-10-25T15:00:47.181433 #14347]  INFO -- : worker=1 ready
+/usr/local/rvm/gems/ruby-2.1.2/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:206:in `pid=': Already running on PID:14342 (or pid=/home/api-ps/pids/unicorn.pid is stale) (ArgumentError)
+	from /usr/local/rvm/gems/ruby-2.1.2/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:135:in `start'
+	from /usr/local/rvm/gems/ruby-2.1.2/gems/unicorn-4.8.3/bin/unicorn_rails:209:in `<top (required)>'
+	from /usr/local/rvm/gems/ruby-2.1.2/bin/unicorn_rails:23:in `load'
+	from /usr/local/rvm/gems/ruby-2.1.2/bin/unicorn_rails:23:in `<main>'
+	from /usr/local/rvm/gems/ruby-2.1.2/bin/ruby_executable_hooks:15:in `eval'
+	from /usr/local/rvm/gems/ruby-2.1.2/bin/ruby_executable_hooks:15:in `<main>'
+I, [2014-10-30T13:34:22.033894 #12744]  INFO -- : unlinking existing socket=/tmp/unicorn.api-ps.sock
+I, [2014-10-30T13:34:22.034432 #12744]  INFO -- : listening on addr=/tmp/unicorn.api-ps.sock fd=11
+I, [2014-10-30T13:34:22.034680 #12744]  INFO -- : worker=0 spawning...
+I, [2014-10-30T13:34:22.041077 #12744]  INFO -- : worker=1 spawning...
+I, [2014-10-30T13:34:22.042423 #12744]  INFO -- : master process ready
+I, [2014-10-30T13:34:22.062575 #12749]  INFO -- : worker=1 spawned pid=12749
+I, [2014-10-30T13:34:22.062969 #12749]  INFO -- : Refreshing Gem list
+I, [2014-10-30T13:34:22.081011 #12747]  INFO -- : worker=0 spawned pid=12747
+I, [2014-10-30T13:34:22.081421 #12747]  INFO -- : Refreshing Gem list
+I, [2014-10-30T13:34:26.307986 #12749]  INFO -- : worker=1 ready
+I, [2014-10-30T13:34:26.309321 #12747]  INFO -- : worker=0 ready
+I, [2014-10-30T13:40:11.115624 #13015]  INFO -- : unlinking existing socket=/tmp/unicorn.api-ps.sock
+I, [2014-10-30T13:40:11.116323 #13015]  INFO -- : listening on addr=/tmp/unicorn.api-ps.sock fd=11
+I, [2014-10-30T13:40:11.116727 #13015]  INFO -- : worker=0 spawning...
+I, [2014-10-30T13:40:11.122822 #13015]  INFO -- : worker=1 spawning...
+I, [2014-10-30T13:40:11.131092 #13018]  INFO -- : worker=0 spawned pid=13018
+I, [2014-10-30T13:40:11.131616 #13018]  INFO -- : Refreshing Gem list
+I, [2014-10-30T13:40:11.134745 #13015]  INFO -- : master process ready
+I, [2014-10-30T13:40:11.142988 #13021]  INFO -- : worker=1 spawned pid=13021
+I, [2014-10-30T13:40:11.143504 #13021]  INFO -- : Refreshing Gem list
+I, [2014-10-30T13:40:15.463713 #13018]  INFO -- : worker=0 ready
+I, [2014-10-30T13:40:15.468210 #13021]  INFO -- : worker=1 ready
+/usr/local/rvm/gems/ruby-2.1.2/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:206:in `pid=': Already running on PID:13015 (or pid=/home/api-ps/pids/unicorn.pid is stale) (ArgumentError)
+	from /usr/local/rvm/gems/ruby-2.1.2/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:135:in `start'
+	from /usr/local/rvm/gems/ruby-2.1.2/gems/unicorn-4.8.3/bin/unicorn_rails:209:in `<top (required)>'
+	from /usr/local/rvm/gems/ruby-2.1.2/bin/unicorn_rails:23:in `load'
+	from /usr/local/rvm/gems/ruby-2.1.2/bin/unicorn_rails:23:in `<main>'
+	from /usr/local/rvm/gems/ruby-2.1.2/bin/ruby_executable_hooks:15:in `eval'
+	from /usr/local/rvm/gems/ruby-2.1.2/bin/ruby_executable_hooks:15:in `<main>'
+I, [2014-10-30T13:45:37.649524 #13361]  INFO -- : unlinking existing socket=/tmp/unicorn.api-ps.sock
+I, [2014-10-30T13:45:37.650028 #13361]  INFO -- : listening on addr=/tmp/unicorn.api-ps.sock fd=11
+I, [2014-10-30T13:45:37.650286 #13361]  INFO -- : worker=0 spawning...
+I, [2014-10-30T13:45:37.651615 #13361]  INFO -- : worker=1 spawning...
+I, [2014-10-30T13:45:37.657907 #13361]  INFO -- : master process ready
+I, [2014-10-30T13:45:37.652822 #13364]  INFO -- : worker=0 spawned pid=13364
+I, [2014-10-30T13:45:37.665654 #13364]  INFO -- : Refreshing Gem list
+I, [2014-10-30T13:45:37.674135 #13367]  INFO -- : worker=1 spawned pid=13367
+I, [2014-10-30T13:45:37.674557 #13367]  INFO -- : Refreshing Gem list
+I, [2014-10-30T13:45:41.700172 #13364]  INFO -- : worker=0 ready
+I, [2014-10-30T13:45:41.818781 #13367]  INFO -- : worker=1 ready
+/home/api-ps/app/controllers/api/v1/users_controller.rb:95: warning: else without rescue is useless
+/home/api-ps/app/controllers/api/v1/users_controller.rb:95: warning: else without rescue is useless
+/home/api-ps/app/controllers/api/v1/users_controller.rb:95: warning: else without rescue is useless
+/home/api-ps/app/controllers/api/v1/users_controller.rb:95: warning: else without rescue is useless
+/home/api-ps/app/controllers/api/v1/users_controller.rb:95: warning: else without rescue is useless
+/home/api-ps/app/controllers/api/v1/users_controller.rb:95: warning: else without rescue is useless
+I, [2014-11-02T13:20:29.894171 #2154]  INFO -- : unlinking existing socket=/tmp/unicorn.api-ps.sock
+I, [2014-11-02T13:20:29.894706 #2154]  INFO -- : listening on addr=/tmp/unicorn.api-ps.sock fd=11
+I, [2014-11-02T13:20:29.895083 #2154]  INFO -- : worker=0 spawning...
+I, [2014-11-02T13:20:29.896703 #2154]  INFO -- : worker=1 spawning...
+I, [2014-11-02T13:20:29.902191 #2157]  INFO -- : worker=0 spawned pid=2157
+I, [2014-11-02T13:20:29.902552 #2157]  INFO -- : Refreshing Gem list
+I, [2014-11-02T13:20:29.906004 #2154]  INFO -- : master process ready
+I, [2014-11-02T13:20:29.914618 #2160]  INFO -- : worker=1 spawned pid=2160
+I, [2014-11-02T13:20:29.914970 #2160]  INFO -- : Refreshing Gem list
+I, [2014-11-02T13:20:34.374876 #2157]  INFO -- : worker=0 ready
+I, [2014-11-02T13:20:34.625648 #2160]  INFO -- : worker=1 ready
+I, [2014-11-02T13:34:32.034736 #2763]  INFO -- : unlinking existing socket=/tmp/unicorn.api-ps.sock
+I, [2014-11-02T13:34:32.035495 #2763]  INFO -- : listening on addr=/tmp/unicorn.api-ps.sock fd=11
+I, [2014-11-02T13:34:32.035856 #2763]  INFO -- : worker=0 spawning...
+I, [2014-11-02T13:34:32.042451 #2763]  INFO -- : worker=1 spawning...
+I, [2014-11-02T13:34:32.045991 #2766]  INFO -- : worker=0 spawned pid=2766
+I, [2014-11-02T13:34:32.046387 #2766]  INFO -- : Refreshing Gem list
+I, [2014-11-02T13:34:32.048662 #2763]  INFO -- : master process ready
+I, [2014-11-02T13:34:32.050117 #2769]  INFO -- : worker=1 spawned pid=2769
+I, [2014-11-02T13:34:32.085353 #2769]  INFO -- : Refreshing Gem list
+I, [2014-11-02T13:34:37.363433 #2769]  INFO -- : worker=1 ready
+I, [2014-11-02T13:34:37.369744 #2766]  INFO -- : worker=0 ready
+Message goes here
+Message goes here
+Message goes here
+Message goes here
+I, [2014-11-03T12:14:59.734142 #24419]  INFO -- : unlinking existing socket=/tmp/unicorn.api-ps.sock
+I, [2014-11-03T12:14:59.737237 #24419]  INFO -- : listening on addr=/tmp/unicorn.api-ps.sock fd=11
+I, [2014-11-03T12:14:59.737525 #24419]  INFO -- : worker=0 spawning...
+I, [2014-11-03T12:14:59.738879 #24419]  INFO -- : worker=1 spawning...
+I, [2014-11-03T12:14:59.740470 #24422]  INFO -- : worker=0 spawned pid=24422
+I, [2014-11-03T12:14:59.740776 #24422]  INFO -- : Refreshing Gem list
+I, [2014-11-03T12:14:59.746461 #24419]  INFO -- : master process ready
+I, [2014-11-03T12:14:59.754559 #24425]  INFO -- : worker=1 spawned pid=24425
+I, [2014-11-03T12:14:59.754903 #24425]  INFO -- : Refreshing Gem list
+I, [2014-11-03T12:15:04.687342 #24425]  INFO -- : worker=1 ready
+I, [2014-11-03T12:15:04.705938 #24422]  INFO -- : worker=0 ready
+I, [2014-11-03T12:29:22.565926 #24777]  INFO -- : unlinking existing socket=/tmp/unicorn.api-ps.sock
+I, [2014-11-03T12:29:22.566494 #24777]  INFO -- : listening on addr=/tmp/unicorn.api-ps.sock fd=11
+I, [2014-11-03T12:29:22.566791 #24777]  INFO -- : worker=0 spawning...
+I, [2014-11-03T12:29:22.568199 #24777]  INFO -- : worker=1 spawning...
+I, [2014-11-03T12:29:22.574335 #24780]  INFO -- : worker=0 spawned pid=24780
+I, [2014-11-03T12:29:22.574714 #24780]  INFO -- : Refreshing Gem list
+I, [2014-11-03T12:29:22.578320 #24777]  INFO -- : master process ready
+I, [2014-11-03T12:29:22.586682 #24783]  INFO -- : worker=1 spawned pid=24783
+I, [2014-11-03T12:29:22.587044 #24783]  INFO -- : Refreshing Gem list
+I, [2014-11-03T12:29:26.835209 #24780]  INFO -- : worker=0 ready
+I, [2014-11-03T12:29:26.848616 #24783]  INFO -- : worker=1 ready
+I, [2014-11-03T12:37:41.389297 #25093]  INFO -- : unlinking existing socket=/tmp/unicorn.api-ps.sock
+I, [2014-11-03T12:37:41.389829 #25093]  INFO -- : listening on addr=/tmp/unicorn.api-ps.sock fd=11
+I, [2014-11-03T12:37:41.390072 #25093]  INFO -- : worker=0 spawning...
+I, [2014-11-03T12:37:41.391236 #25093]  INFO -- : worker=1 spawning...
+I, [2014-11-03T12:37:41.392609 #25096]  INFO -- : worker=0 spawned pid=25096
+I, [2014-11-03T12:37:41.398009 #25093]  INFO -- : master process ready
+I, [2014-11-03T12:37:41.406498 #25099]  INFO -- : worker=1 spawned pid=25099
+I, [2014-11-03T12:37:41.406820 #25099]  INFO -- : Refreshing Gem list
+I, [2014-11-03T12:37:41.392883 #25096]  INFO -- : Refreshing Gem list
+I, [2014-11-03T12:37:45.448737 #25096]  INFO -- : worker=0 ready
+I, [2014-11-03T12:37:45.458327 #25099]  INFO -- : worker=1 ready
+I, [2014-11-03T12:42:11.857266 #25313]  INFO -- : unlinking existing socket=/tmp/unicorn.api-ps.sock
+I, [2014-11-03T12:42:11.857797 #25313]  INFO -- : listening on addr=/tmp/unicorn.api-ps.sock fd=11
+I, [2014-11-03T12:42:11.858056 #25313]  INFO -- : worker=0 spawning...
+I, [2014-11-03T12:42:11.862309 #25313]  INFO -- : worker=1 spawning...
+I, [2014-11-03T12:42:11.863705 #25316]  INFO -- : worker=0 spawned pid=25316
+I, [2014-11-03T12:42:11.863990 #25316]  INFO -- : Refreshing Gem list
+I, [2014-11-03T12:42:11.869907 #25313]  INFO -- : master process ready
+I, [2014-11-03T12:42:11.878453 #25319]  INFO -- : worker=1 spawned pid=25319
+I, [2014-11-03T12:42:11.878778 #25319]  INFO -- : Refreshing Gem list
+I, [2014-11-03T12:42:16.123099 #25319]  INFO -- : worker=1 ready
+I, [2014-11-03T12:42:16.444295 #25316]  INFO -- : worker=0 ready
+I, [2014-11-04T01:33:13.548003 #1094]  INFO -- : unlinking existing socket=/tmp/unicorn.api-ps.sock
+I, [2014-11-04T01:33:13.548666 #1094]  INFO -- : listening on addr=/tmp/unicorn.api-ps.sock fd=11
+I, [2014-11-04T01:33:13.554546 #1094]  INFO -- : worker=0 spawning...
+I, [2014-11-04T01:33:13.556216 #1094]  INFO -- : worker=1 spawning...
+I, [2014-11-04T01:33:13.561923 #1097]  INFO -- : worker=0 spawned pid=1097
+I, [2014-11-04T01:33:13.562374 #1097]  INFO -- : Refreshing Gem list
+I, [2014-11-04T01:33:13.564766 #1094]  INFO -- : master process ready
+I, [2014-11-04T01:33:13.570877 #1100]  INFO -- : worker=1 spawned pid=1100
+I, [2014-11-04T01:33:13.571245 #1100]  INFO -- : Refreshing Gem list
+I, [2014-11-04T01:33:17.966061 #1097]  INFO -- : worker=0 ready
+I, [2014-11-04T01:33:17.972636 #1100]  INFO -- : worker=1 ready
+#<Google::APIClient::Schema::Plus::V1::ActivityFeed:0x0000000657e620>
+#<Google::APIClient::Schema::Plus::V1::ActivityFeed:0x00000007586b08>
+I, [2014-11-04T02:39:26.419992 #2801]  INFO -- : unlinking existing socket=/tmp/unicorn.api-ps.sock
+I, [2014-11-04T02:39:26.421283 #2801]  INFO -- : listening on addr=/tmp/unicorn.api-ps.sock fd=11
+I, [2014-11-04T02:39:26.421708 #2801]  INFO -- : worker=0 spawning...
+I, [2014-11-04T02:39:26.425501 #2801]  INFO -- : worker=1 spawning...
+I, [2014-11-04T02:39:26.430792 #2801]  INFO -- : master process ready
+I, [2014-11-04T02:39:26.438967 #2804]  INFO -- : worker=0 spawned pid=2804
+I, [2014-11-04T02:39:26.439417 #2804]  INFO -- : Refreshing Gem list
+I, [2014-11-04T02:39:26.445799 #2806]  INFO -- : worker=1 spawned pid=2806
+I, [2014-11-04T02:39:26.446075 #2806]  INFO -- : Refreshing Gem list
+I, [2014-11-04T02:39:31.595228 #2806]  INFO -- : worker=1 ready
+I, [2014-11-04T02:39:31.622769 #2804]  INFO -- : worker=0 ready
+#<Google::APIClient::API:0x00000007861c10>
+#<Google::APIClient::API:0x00000007555d50>
+I, [2014-11-04T06:19:08.851369 #5525]  INFO -- : unlinking existing socket=/tmp/unicorn.api-ps.sock
+I, [2014-11-04T06:19:08.852024 #5525]  INFO -- : listening on addr=/tmp/unicorn.api-ps.sock fd=11
+I, [2014-11-04T06:19:08.852333 #5525]  INFO -- : worker=0 spawning...
+I, [2014-11-04T06:19:08.858392 #5525]  INFO -- : worker=1 spawning...
+I, [2014-11-04T06:19:08.861779 #5528]  INFO -- : worker=0 spawned pid=5528
+I, [2014-11-04T06:19:08.862061 #5528]  INFO -- : Refreshing Gem list
+I, [2014-11-04T06:19:08.863618 #5525]  INFO -- : master process ready
+I, [2014-11-04T06:19:08.870731 #5531]  INFO -- : worker=1 spawned pid=5531
+I, [2014-11-04T06:19:08.871070 #5531]  INFO -- : Refreshing Gem list
+I, [2014-11-04T06:19:13.215409 #5528]  INFO -- : worker=0 ready
+I, [2014-11-04T06:19:13.218158 #5531]  INFO -- : worker=1 ready
+I, [2014-11-04T06:21:18.927518 #5644]  INFO -- : unlinking existing socket=/tmp/unicorn.api-ps.sock
+I, [2014-11-04T06:21:18.927939 #5644]  INFO -- : listening on addr=/tmp/unicorn.api-ps.sock fd=11
+I, [2014-11-04T06:21:18.928158 #5644]  INFO -- : worker=0 spawning...
+I, [2014-11-04T06:21:18.933770 #5644]  INFO -- : worker=1 spawning...
+I, [2014-11-04T06:21:18.934661 #5644]  INFO -- : master process ready
+I, [2014-11-04T06:21:18.942513 #5647]  INFO -- : worker=0 spawned pid=5647
+I, [2014-11-04T06:21:18.942856 #5647]  INFO -- : Refreshing Gem list
+I, [2014-11-04T06:21:18.950026 #5649]  INFO -- : worker=1 spawned pid=5649
+I, [2014-11-04T06:21:18.969099 #5649]  INFO -- : Refreshing Gem list
+I, [2014-11-04T06:21:23.114351 #5649]  INFO -- : worker=1 ready
+I, [2014-11-04T06:21:23.116595 #5647]  INFO -- : worker=0 ready
+I, [2014-11-04T06:23:14.235534 #5665]  INFO -- : unlinking existing socket=/tmp/unicorn.api-ps.sock
+I, [2014-11-04T06:23:14.236120 #5665]  INFO -- : listening on addr=/tmp/unicorn.api-ps.sock fd=11
+I, [2014-11-04T06:23:14.236485 #5665]  INFO -- : worker=0 spawning...
+I, [2014-11-04T06:23:14.238147 #5665]  INFO -- : worker=1 spawning...
+I, [2014-11-04T06:23:14.241824 #5665]  INFO -- : master process ready
+I, [2014-11-04T06:23:14.266423 #5670]  INFO -- : worker=1 spawned pid=5670
+I, [2014-11-04T06:23:14.266898 #5670]  INFO -- : Refreshing Gem list
+I, [2014-11-04T06:23:14.281489 #5668]  INFO -- : worker=0 spawned pid=5668
+I, [2014-11-04T06:23:14.281917 #5668]  INFO -- : Refreshing Gem list
+I, [2014-11-04T06:23:18.430945 #5668]  INFO -- : worker=0 ready
+I, [2014-11-04T06:23:18.434620 #5670]  INFO -- : worker=1 ready
+W, [2014-11-04T07:22:11.709877 #5670]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-04T07:22:34.246661 #5668]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-04T07:24:16.833451 #5670]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-04T07:24:18.207702 #5668]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-04T07:24:18.732479 #5670]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-04T07:26:30.215937 #5668]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+I, [2014-11-04T07:26:47.236201 #7172]  INFO -- : unlinking existing socket=/tmp/unicorn.api-ps.sock
+I, [2014-11-04T07:26:47.237175 #7172]  INFO -- : listening on addr=/tmp/unicorn.api-ps.sock fd=11
+I, [2014-11-04T07:26:47.237756 #7172]  INFO -- : worker=0 spawning...
+I, [2014-11-04T07:26:47.243000 #7172]  INFO -- : worker=1 spawning...
+I, [2014-11-04T07:26:47.247550 #7172]  INFO -- : master process ready
+I, [2014-11-04T07:26:47.255641 #7175]  INFO -- : worker=0 spawned pid=7175
+I, [2014-11-04T07:26:47.256251 #7175]  INFO -- : Refreshing Gem list
+I, [2014-11-04T07:26:47.266951 #7178]  INFO -- : worker=1 spawned pid=7178
+I, [2014-11-04T07:26:47.267504 #7178]  INFO -- : Refreshing Gem list
+I, [2014-11-04T07:26:52.559561 #7175]  INFO -- : worker=0 ready
+I, [2014-11-04T07:26:52.556761 #7178]  INFO -- : worker=1 ready
+W, [2014-11-04T07:26:53.353307 #7175]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-04T07:27:45.682627 #7178]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-04T07:27:47.035328 #7175]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-04T07:27:48.078805 #7178]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-04T07:28:20.668484 #7175]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+{
+ "error": {
+  "errors": [
+   {
+    "domain": "global",
+    "reason": "insufficientPermissions",
+    "message": "Insufficient Permission"
+   }
+  ],
+  "code": 403,
+  "message": "Insufficient Permission"
+ }
+}
+W, [2014-11-04T07:29:00.362679 #7175]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+{
+ "error": {
+  "errors": [
+   {
+    "domain": "global",
+    "reason": "insufficientPermissions",
+    "message": "Insufficient Permission"
+   }
+  ],
+  "code": 403,
+  "message": "Insufficient Permission"
+ }
+}
+W, [2014-11-04T07:29:50.016535 #7178]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-04T07:42:32.618400 #7178]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-04T07:43:02.183825 #7175]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+Not Found
+W, [2014-11-04T07:44:18.615240 #7178]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-04T07:45:51.380151 #7175]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-04T07:45:53.813384 #7178]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-04T07:46:51.134690 #7175]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-04T07:48:43.865284 #7178]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-04T07:49:22.072965 #7175]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-04T07:49:23.517349 #7178]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-04T07:49:24.486107 #7175]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-04T07:51:55.584173 #7178]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-04T07:53:25.130979 #7175]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-04T07:53:26.841460 #7178]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-04T07:55:00.464078 #7175]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-04T07:55:14.131238 #7178]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-04T08:01:53.686690 #7175]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-04T08:02:50.397140 #7178]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-04T08:03:23.256271 #7175]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-04T08:03:41.344164 #7178]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-04T08:11:25.954826 #7178]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-04T08:12:28.647481 #7175]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-04T08:19:08.771806 #7178]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-04T08:20:18.970639 #7175]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-04T08:22:42.696171 #7178]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-04T11:10:50.078124 #7178]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-05T03:17:29.740373 #7178]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-05T04:03:33.396226 #7175]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-05T22:40:58.222486 #7178]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-06T01:40:42.878265 #7175]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+I, [2014-11-06T01:41:50.734148 #15550]  INFO -- : unlinking existing socket=/tmp/unicorn.api-ps.sock
+I, [2014-11-06T01:41:50.737401 #15550]  INFO -- : listening on addr=/tmp/unicorn.api-ps.sock fd=11
+I, [2014-11-06T01:41:50.737895 #15550]  INFO -- : worker=0 spawning...
+I, [2014-11-06T01:41:50.740213 #15550]  INFO -- : worker=1 spawning...
+I, [2014-11-06T01:41:50.747168 #15553]  INFO -- : worker=0 spawned pid=15553
+I, [2014-11-06T01:41:50.747616 #15553]  INFO -- : Refreshing Gem list
+I, [2014-11-06T01:41:50.766353 #15556]  INFO -- : worker=1 spawned pid=15556
+I, [2014-11-06T01:41:50.766919 #15556]  INFO -- : Refreshing Gem list
+I, [2014-11-06T01:41:50.769265 #15550]  INFO -- : master process ready
+I, [2014-11-06T01:41:55.576299 #15556]  INFO -- : worker=1 ready
+I, [2014-11-06T01:41:55.645292 #15553]  INFO -- : worker=0 ready
+W, [2014-11-06T01:43:01.693209 #15556]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-06T02:07:05.397584 #15556]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-06T02:30:31.556543 #15556]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-06T02:42:57.817767 #15553]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-06T02:45:09.531496 #15556]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-06T02:46:52.418310 #15553]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-06T02:47:04.729302 #15556]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-06T02:47:20.251365 #15553]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-06T02:49:08.741077 #15556]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-06T04:08:12.124792 #15556]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+W, [2014-11-06T04:09:19.086812 #15553]  WARN -- : Google::APIClient - Please provide :application_name and :application_version when initializing the client
+I, [2014-11-06T09:42:00.653045 #19601]  INFO -- : unlinking existing socket=/tmp/unicorn.api-ps.sock
+I, [2014-11-06T09:42:00.657574 #19601]  INFO -- : listening on addr=/tmp/unicorn.api-ps.sock fd=11
+I, [2014-11-06T09:42:00.658313 #19601]  INFO -- : worker=0 spawning...
+I, [2014-11-06T09:42:00.666860 #19604]  INFO -- : worker=0 spawned pid=19604
+I, [2014-11-06T09:42:00.667301 #19604]  INFO -- : Refreshing Gem list
+I, [2014-11-06T09:42:00.660671 #19601]  INFO -- : worker=1 spawning...
+I, [2014-11-06T09:42:00.670793 #19601]  INFO -- : master process ready
+I, [2014-11-06T09:42:00.686601 #19607]  INFO -- : worker=1 spawned pid=19607
+I, [2014-11-06T09:42:00.687121 #19607]  INFO -- : Refreshing Gem list
+I, [2014-11-06T09:42:05.256324 #19604]  INFO -- : worker=0 ready
+I, [2014-11-06T09:42:05.520371 #19607]  INFO -- : worker=1 ready
+I, [2014-11-06T14:23:53.922456 #20686]  INFO -- : unlinking existing socket=/tmp/unicorn.api-ps.sock
+I, [2014-11-06T14:23:53.923069 #20686]  INFO -- : listening on addr=/tmp/unicorn.api-ps.sock fd=11
+I, [2014-11-06T14:23:53.923426 #20686]  INFO -- : worker=0 spawning...
+I, [2014-11-06T14:23:53.926065 #20686]  INFO -- : worker=1 spawning...
+I, [2014-11-06T14:23:53.930133 #20686]  INFO -- : master process ready
+I, [2014-11-06T14:23:53.938238 #20689]  INFO -- : worker=0 spawned pid=20689
+I, [2014-11-06T14:23:53.938619 #20689]  INFO -- : Refreshing Gem list
+I, [2014-11-06T14:23:53.946132 #20692]  INFO -- : worker=1 spawned pid=20692
+I, [2014-11-06T14:23:53.946467 #20692]  INFO -- : Refreshing Gem list
+I, [2014-11-06T14:23:58.562337 #20692]  INFO -- : worker=1 ready
+I, [2014-11-06T14:23:58.745632 #20689]  INFO -- : worker=0 ready
+Сообщение отправлено успешно. ID: 14819, всего SMS: 1, стоимость: 0.0225, баланс: 419.504
+Сообщение отправлено успешно. ID: 14830, всего SMS: 1, стоимость: 0.02, баланс: 40.378
+Сообщение отправлено успешно. ID: 14832, всего SMS: 1, стоимость: 0.02, баланс: 40.329
+Сообщение отправлено успешно. ID: 14833, всего SMS: 1, стоимость: 0.02, баланс: 40.309
+Сообщение отправлено успешно. ID: 14834, всего SMS: 1, стоимость: 0.02, баланс: 40.289
+Сообщение отправлено успешно. ID: 14837, всего SMS: 1, стоимость: 0.02, баланс: 40.2285
+Сообщение отправлено успешно. ID: 14838, всего SMS: 1, стоимость: 0.02, баланс: 40.2085
+I, [2014-11-18T09:40:43.862042 #9683]  INFO -- : unlinking existing socket=/tmp/unicorn.api-ps.sock
+I, [2014-11-18T09:40:43.863269 #9683]  INFO -- : listening on addr=/tmp/unicorn.api-ps.sock fd=11
+I, [2014-11-18T09:40:43.863549 #9683]  INFO -- : worker=0 spawning...
+I, [2014-11-18T09:40:43.869368 #9683]  INFO -- : worker=1 spawning...
+I, [2014-11-18T09:40:43.871188 #9683]  INFO -- : master process ready
+I, [2014-11-18T09:40:43.879001 #9686]  INFO -- : worker=0 spawned pid=9686
+I, [2014-11-18T09:40:43.879384 #9686]  INFO -- : Refreshing Gem list
+I, [2014-11-18T09:40:43.893350 #9688]  INFO -- : worker=1 spawned pid=9688
+I, [2014-11-18T09:40:43.893754 #9688]  INFO -- : Refreshing Gem list
+I, [2014-11-18T09:40:48.713971 #9686]  INFO -- : worker=0 ready
+I, [2014-11-18T09:40:48.714569 #9688]  INFO -- : worker=1 ready
+E, [2014-11-18T09:45:02.118275 #9683] ERROR -- : worker=0 PID:9686 timeout (31s > 30s), killing
+E, [2014-11-18T09:45:02.135761 #9683] ERROR -- : reaped #<Process::Status: pid 9686 SIGKILL (signal 9)> worker=0
+I, [2014-11-18T09:45:02.136131 #9683]  INFO -- : worker=0 spawning...
+I, [2014-11-18T09:45:02.139119 #9794]  INFO -- : worker=0 spawned pid=9794
+I, [2014-11-18T09:45:02.140000 #9794]  INFO -- : Refreshing Gem list
+I, [2014-11-18T09:45:04.314373 #9794]  INFO -- : worker=0 ready
+E, [2014-11-18T09:45:51.187362 #9683] ERROR -- : worker=1 PID:9688 timeout (31s > 30s), killing
+E, [2014-11-18T09:45:51.200276 #9683] ERROR -- : reaped #<Process::Status: pid 9688 SIGKILL (signal 9)> worker=1
+I, [2014-11-18T09:45:51.200474 #9683]  INFO -- : worker=1 spawning...
+I, [2014-11-18T09:45:51.202480 #9799]  INFO -- : worker=1 spawned pid=9799
+I, [2014-11-18T09:45:51.202859 #9799]  INFO -- : Refreshing Gem list
+I, [2014-11-18T09:45:53.339154 #9799]  INFO -- : worker=1 ready
+Сообщение отправлено успешно. ID: 14839, всего SMS: 1, стоимость: 0.02, баланс: 40.1885

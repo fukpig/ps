@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  registration_date: 2014-10-01
+  domain: MyString
+  expiry_date: 2014-10-01
+  status: MyString
+  ns_list: MyString
+  company_id: 1
+
+two:
+  user_id: 1
+  registration_date: 2014-10-01
+  domain: MyString
+  expiry_date: 2014-10-01
+  status: MyString
+  ns_list: MyString
+  company_id: 1

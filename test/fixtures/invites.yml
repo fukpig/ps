@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cellphone: MyString
+  inviter_id: 1
+  company_id: 1
+  accepted: false
+
+two:
+  cellphone: MyString
+  inviter_id: 1
+  company_id: 1
+  accepted: false
