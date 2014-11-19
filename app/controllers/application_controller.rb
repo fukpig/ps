@@ -1,5 +1,4 @@
 class ApplicationController< ActionController::API
- protect_from_forgery
  
  include CanCan::ControllerAdditions
 
@@ -48,8 +47,15 @@ def error(error_text, error_code, error_data)
   data = {"result"=>"errors", "error_text" => error_text, "error_code"=> error_code, "error_data"=> error_data}
   render json: data, status: 422
 end
- 
 
+
+def domain_owner?(domain_id) 
+  if current_user.domains.where(["id = ?", @params['domain_id']]).present?
+    return true
+  else
+    raise StandardError.new(message:"domain not found")
+  end
+end
 
 def generate_user_hash
     code = Array.new(5){[*'0'..'9'].sample}.join
